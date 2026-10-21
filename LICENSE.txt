@@ -1,0 +1,33 @@
+# Actione — Proprietary Software License
+
+Copyright (c) 2026 Debihub. All rights reserved.
+
+Actione and its associated application code, design, branding, and documentation are owned by their respective copyright holders.
+
+## Permission to Use
+
+Subject to applicable law, the developer grants users a limited, personal, non-exclusive, non-transferable permission to download, install, and use the unmodified Actione application for personal or evaluation purposes.
+
+## Restrictions
+
+Without prior written permission from the relevant rights holder, you may not:
+
+- Redistribute or sell copies of Actione.
+- Modify, adapt, or create derivative works from Actione.
+- Claim ownership or authorship of Actione.
+- Use Actione branding to imply endorsement or ownership.
+- Reverse-engineer or decompile Actione except where applicable law permits or protects such activity.
+
+## Ownership
+
+This license does not transfer ownership of Actione or its intellectual property to the user.
+
+## Disclaimer
+
+Actione is early-development software and is provided "as is", to the extent permitted by applicable law. No guarantee is made that it will be error-free or suitable for a particular purpose.
+
+## Contact
+
+For commercial use, redistribution, licensing questions, or other permissions, contact the developer through the official Actione GitHub profile.
+
+This notice does not override rights that cannot legally be restricted.
